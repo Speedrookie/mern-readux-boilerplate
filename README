@@ -1,0 +1,4 @@
+#Setup Development
+1. Install packages both server and client (npm i)
+2. Get and or set keys.
+3. Ensure ports are correct and proxy is set (client/package.json)
